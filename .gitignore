@@ -1,5 +1,5 @@
-# Ignore everything
-*
+
+!*/
 
 # Track core configuration files
 !.gitignore
@@ -10,12 +10,10 @@
 !iRacing/rendererDX11Monitor.ini
 
 # Allow directories for modular structure
-!*/
 
-# SSH keys
-!.ssh/
-.ssh/*
-!.ssh/iracingsettings_deploy.pub
+MOZA Pit House/**
+RaceLabApps/**
+SimHub/**
 
 # Common development files to ignore
 .DS_Store
@@ -23,3 +21,5 @@ Thumbs.db
 *.log
 *.bak
 *.tmp 
+
+*
