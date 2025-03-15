@@ -8,12 +8,13 @@
 !iRacing/core.ini
 !iRacing/rendererDX11.ini
 !iRacing/rendererDX11Monitor.ini
+!iRacing\joyCalib.yaml
 
 # Allow directories for modular structure
 
-MOZA Pit House/**
-RaceLabApps/**
-SimHub/**
+MOZA Pit House/
+RaceLabApps/
+SimHub/
 
 # Common development files to ignore
 .DS_Store
