@@ -8,7 +8,7 @@
 !iRacing/core.ini
 !iRacing/rendererDX11.ini
 !iRacing/rendererDX11Monitor.ini
-!iRacing\joyCalib.yaml
+!iRacing/joyCalib.yaml
 
 # Allow directories for modular structure
 
