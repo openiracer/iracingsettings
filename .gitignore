@@ -12,6 +12,11 @@
 # Allow directories for modular structure
 !*/
 
+# SSH keys
+!.ssh/
+.ssh/*
+!.ssh/iracingsettings_deploy.pub
+
 # Common development files to ignore
 .DS_Store
 Thumbs.db
