@@ -4,10 +4,10 @@
 # Track core configuration files
 !.gitignore
 !README.md
-!iRacing/app.ini
-!iRacing/core.ini
-!iRacing/rendererDX11.ini
-!iRacing/rendererDX11Monitor.ini
+!app.ini
+!core.ini
+!renderDX11.ini
+!rendererDX11Monitor.ini
 
 # Allow directories for modular structure
 !*/
