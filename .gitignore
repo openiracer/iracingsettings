@@ -1,0 +1,20 @@
+# Ignore everything
+*
+
+# Track core configuration files
+!.gitignore
+!README.md
+!iRacing/app.ini
+!iRacing/core.ini
+!iRacing/rendererDX11.ini
+!iRacing/rendererDX11Monitor.ini
+
+# Allow directories for modular structure
+!*/
+
+# Common development files to ignore
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp 
